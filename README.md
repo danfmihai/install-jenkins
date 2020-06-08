@@ -1,5 +1,5 @@
 # install-jenkins
-Installs Jenkins
+Installs Jenkins on Ubuntu/Linux Mint 19.3
 use 
 ```
 git clone https://github.com/danfmihai/install-jenkins.git
