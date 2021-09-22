@@ -1,4 +1,4 @@
-# install-jenkins
+# install-jenkins ubuntu
 Installs Jenkins on Ubuntu/Linux Mint 19.3
 use 
 ```
